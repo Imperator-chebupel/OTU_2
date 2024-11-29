@@ -1,0 +1,11 @@
+C:\Users\azza1\source\repos\РГР\РГР\bin\Debug\РГР.exe.config
+C:\Users\azza1\source\repos\РГР\РГР\bin\Debug\РГР.exe
+C:\Users\azza1\source\repos\РГР\РГР\bin\Debug\РГР.pdb
+C:\Users\azza1\source\repos\РГР\РГР\obj\Debug\РГР.csproj.AssemblyReference.cache
+C:\Users\azza1\source\repos\РГР\РГР\obj\Debug\РГР.Form1.resources
+C:\Users\azza1\source\repos\РГР\РГР\obj\Debug\РГР.Properties.Resources.resources
+C:\Users\azza1\source\repos\РГР\РГР\obj\Debug\РГР.csproj.GenerateResource.cache
+C:\Users\azza1\source\repos\РГР\РГР\obj\Debug\РГР.csproj.CoreCompileInputs.cache
+C:\Users\azza1\source\repos\РГР\РГР\obj\Debug\РГР.exe
+C:\Users\azza1\source\repos\РГР\РГР\obj\Debug\РГР.pdb
+C:\Users\azza1\source\repos\РГР\РГР\obj\Debug\РГР.GameForm.resources
